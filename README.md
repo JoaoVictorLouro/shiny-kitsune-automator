@@ -1,1 +1,1 @@
-# shiny-kitsune-automator
+# shiny-okami-automator
